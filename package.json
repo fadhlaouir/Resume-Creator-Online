@@ -3,9 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "@material-ui/core": "^3.9.2",
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "materialize-css": "^1.0.0-rc.2",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.5",
+    "react-avatar-edit": "^0.8.2",
+    "react-avatar-uploader": "^1.0.3",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-circular-progressbar": "^1.0.0",
+    "react-dom": "^16.8.5",
+    "react-facebook-login": "^4.1.1",
+    "react-images-upload": "^1.2.6",
+    "react-md": "^1.9.3",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "redux": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,5 +36,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "react-to-print": "^2.0.0-alpha.7"
+  }
 }
