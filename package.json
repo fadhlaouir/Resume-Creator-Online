@@ -7,7 +7,7 @@
     "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
     "materialize-css": "^1.0.0-rc.2",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.5",
     "react-avatar-edit": "^0.8.2",
     "react-avatar-uploader": "^1.0.3",
